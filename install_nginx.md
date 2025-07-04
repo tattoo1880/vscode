@@ -1,3 +1,15 @@
+<div align="center">
+
+## **_nginx 的安装_**
+
+---
+
+![github star](https://img.shields.io/badge/tattoo1880-v_1.0-blue)
+
+</div>
+
+
+
 ```shell
 apt install nginx
 
