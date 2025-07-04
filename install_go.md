@@ -1,6 +1,7 @@
 <div align="center">
 
 **_golang 的安装_**
+<br/>
 ![github star](https://img.shields.io/badge/tattoo1880-v_1.0-blue)
 
 ---
