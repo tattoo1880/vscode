@@ -1,6 +1,10 @@
 <div align="center">
-***golang的安装***
+
+**_golang 的安装_**
+![github star](https://img.shields.io/badge/tattoo1880-v_1.0-blue)
+
 ---
+
 </div>
 
 ```shell
