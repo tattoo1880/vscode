@@ -1,5 +1,6 @@
 <div align="center">
 ***golang的安装***
+---
 </div>
 
 ```shell
