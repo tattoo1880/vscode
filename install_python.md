@@ -1,8 +1,8 @@
 ```shell
-wget https://www.python.org/ftp/python/3.12.4/Python-3.12.4.tar.xz
+wget https://www.python.org/ftp/python/3.13.7/Python-3.13.7.tar.xz
 sudo apt update
 sudo apt install -y build-essential libssl-dev zlib1g-dev libncurses5-dev libncursesw5-dev libreadline-dev libsqlite3-dev libgdbm-dev libdb5.3-dev libbz2-dev libexpat1-dev liblzma-dev tk-dev libffi-dev
-tar -xf Python-3.12.4.tar.xz
+tar -xf Python-3.13.7.tar.xz
 cd Python-3.12.4
 ./configure
 make -j $(nproc)
