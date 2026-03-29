@@ -20,9 +20,9 @@ nano /etc/supervisor/conf.d/gomain.conf
 ```
 
 ```shell
-[program:gomain]
-command=/root/groqbot/main  
-directory=/root/groqbot
+[program:hys]
+command=/home/hys/hy server
+directory=/home/hys
 autostart=true
 autorestart=true
 startsecs=10
